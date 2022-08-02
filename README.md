@@ -2,14 +2,15 @@
 
 ### InsertionSortProject
 
-#### [22,27,16,2,18,6] dizinin intersertion sort türüne göre aşamalari: 
-2,27,16,22,18,6 / 
-2,6,16,22,18,27 / 
+#### [22,27,16,2,18,6] dizinin intersertion sort türüne göre sıralaması: 
+2,27,16,22,18,6 
+2,6,16,22,18,27 
 2,6,16,18,22,27
 
-#### Big-O gösterimi : n.(n+1)/2 O(n^2) 18 sayısı Average case'dir.
+#### Big-O gösterimi : n.(n+1)/2 O(n^2) 18 sayısı Average case
 
-#### [7,3,5,8,2,9,4,15,6] insertion sort'a göre ilk 4 adımı:
+
+#### [7,3,5,8,2,9,4,15,6] insertion sorta göre ilk 4 aşaması:
 
 2,3,5,8,7,9,4,15,6
 
